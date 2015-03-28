@@ -1,0 +1,8 @@
+Authors: 
+John Zank, Courtenay Wheeler, Jeremiah Garwick, Mark Robinson
+
+Project Name: 
+Network Management Application using RMI
+
+Directions: 
+Open Terminal and change the directory to the location of the .class files which will be at JavaClient/bin. To launch the server, type "java Server" while in the bin folder. To launch the client, type "java Client 'host name'", where hostname is type in the IP address of the server. If the server is hosted locally type in "localhost" in the host name area.
